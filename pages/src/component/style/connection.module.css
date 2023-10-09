@@ -1,0 +1,25 @@
+.email{
+    font-weight: 800;
+    font-size: 30px;
+}
+
+
+.zag{
+
+}
+.h{
+
+}
+.text{
+    font-weight: 500;
+    font-size: 20px;
+}
+.container{
+    margin: auto;
+    max-width: 700px;
+    height: calc(800px - 150px);
+}
+.p{
+    max-width: 700px ;
+    text-align: center;
+}

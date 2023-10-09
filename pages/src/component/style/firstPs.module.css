@@ -1,0 +1,24 @@
+.h{
+    text-align: center;
+    height: 200px;
+}
+.H1{
+    color: #C298E4;
+    top: 20px;
+    font-weight: 900;
+    font-size: 40px;
+    transition: 1s;
+}
+.H1:hover{
+    transform: scale(1.1);
+}
+.divZ{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 22px;
+
+}

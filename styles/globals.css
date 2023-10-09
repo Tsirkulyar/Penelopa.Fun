@@ -1,0 +1,11 @@
+html,
+body {
+  background-color: aliceblue;
+  height: 100%;
+}
+*{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Righteous', cursive;
+  font-family: 'Roboto', sans-serif;
+}

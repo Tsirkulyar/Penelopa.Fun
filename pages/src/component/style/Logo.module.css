@@ -1,0 +1,40 @@
+.h1{
+max-width: 613px;
+width: 100%;
+height: 185px;
+left: calc(50% - 613px/2 - 0.5px);
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 138px;
+line-height: 184px;
+color: #C298E4;
+filter: blur(0.1px);
+}
+.h5{
+  position: absolute;
+padding-top: 240px;
+font-size: 30px;
+line-height: 30px;
+
+color: #C298E4;
+}
+.DivLogo{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 700px) {
+  .h1{
+    text-align: center;
+      width:300px;
+      height: 185px;
+      font-weight: 600;
+      font-size: 79px;
+  }
+  .h5{
+    font-size: 25px;
+    line-height: 25px;
+  }
+}

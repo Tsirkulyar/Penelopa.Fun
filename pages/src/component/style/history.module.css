@@ -1,0 +1,53 @@
+.h{
+    text-align: center;
+}
+.H1{
+    color: #C298E4;
+    top: 20px;
+    font-weight: 900;
+    font-size: 40px;
+    transition: 1s;
+}
+.H1:hover{
+    transform: scale(1.1);
+}
+.divZ{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: #000;
+    height: 200px;
+    font-weight: 400;
+    font-size: 22px;
+}
+.line{
+    margin: auto;
+    height: 4px;
+    background-color: #dcc3ef;
+    width: 600px;
+}
+.BlockLi{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+}
+.textHistory{
+    max-width: 700px;
+    text-align: center;
+}
+.textLi{
+    margin: auto;
+}
+@media (max-width: 700px) {
+    .history{
+        margin-top: 30px;
+    }
+    .line{
+        width: 250px;
+    }
+    .textHistory{
+        max-width: 100%;
+    }
+}

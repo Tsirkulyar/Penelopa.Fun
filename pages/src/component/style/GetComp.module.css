@@ -1,0 +1,29 @@
+.form{
+    margin-top: 30px;
+    text-align: center;
+    color: #000;
+    
+    /* width: 100%; */
+}
+.input{
+    max-width: 500px;
+    width: 100%;
+    height: 60px;
+    border: 12px;
+    border-radius: 15px;
+    background-color: #dcc3ef;
+}
+.btn{
+    height: 60px;
+    width: 80px;
+    border-radius: 15px;
+    border: none;
+    background-color: #dcc3ef;
+    margin-left: 10px;
+    transition: 1s;
+}
+.btn:active{
+    transform: scale(0.9);
+            /* Scaling button to 0.98 to its original size */
+            box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
